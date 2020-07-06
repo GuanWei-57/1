@@ -1,0 +1,4 @@
+#用del删除指定位置的元素
+eg numbers = [1,2,3,'red']  
+   del numbers [3]   #删除标号为3位置的数，第一个标号为0
+   numbers = [1,2,3]
